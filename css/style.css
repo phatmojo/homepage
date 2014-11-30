@@ -1,0 +1,32 @@
+body {
+    background-color: #f0efef;
+}
+
+.logo {
+    margin:auto;
+    margin-top:100px;
+	width:260px;
+	height:300px;
+    background:url('../images/phatmojo.jpg') 0 0;
+}
+
+.center {
+	text-align:center;
+}
+
+.spacer {
+	margin-top:20px;
+}
+
+a {
+    color:black;
+    text-decoration:none;
+    font-family:"Verdana";
+    font-style:normal;
+}
+
+a:hover
+{
+     cursor:pointer;
+     text-decoration:underline;
+}
